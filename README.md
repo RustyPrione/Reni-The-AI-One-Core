@@ -1,10 +1,11 @@
 # Reni-The-AI-One-Core
 The Powerfull AI Engine For Windows 10
+
 Do the following commands in Powershell in windows 10 to activate Assistant
 
 1.update pip installer to version 3 in powershell
 
-2.make you check you have install Microsoft Visual C++ 14.0 is Required
+2.make sure check you have install Microsoft Visual C++ 14.0 is Required
 
 then install following pacakges:
 
