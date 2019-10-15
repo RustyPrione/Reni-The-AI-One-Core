@@ -14,6 +14,7 @@ import gmailservices as g
 import googleservices as G
 import assit as a
 import mozilla as m
+import pwctrlandroid as p
 
 
 r=sr.Recognizer()
@@ -47,8 +48,10 @@ try:
     G.google(text)
     a.assitant(text)
     m.mozilla(text)
-    if("hello"==text):
-        print('hai')
+    p.androidpwctrl(text)
+
+    if('hello'==text):
+        print("done")
     else:
         print(text)
 except Exception as e:

@@ -6,7 +6,7 @@ open Facebook
 open Gmail
 send WhatsApp message (or) send a WhatsApp message
 
-==== Reni can also System Services ====
+==== Reni can also run System Services ====
 open control panel (or) control panel
 open file explorer (or)show me the files in this PC
 open Run (or) open run command (or) open run command box
@@ -18,6 +18,21 @@ show recent apps (or) show my recent apps
 Show desktop (or) show my desktop
 show downloads folder (or) open downloads folder (or) show my downloads (or) open my downloads folder (or) show my downloads folder
 
+====Reni Android Power control ====
+/** shutdown android system **/
+shut down my phone (or)shutdown this phone (or) shut down this device (or) shut down my device
+switch off my device (or) switch off my phone (or) switch off this phone (or) power of this device (or) power off this device 
+power of my device (or) power off my device 
+
+/** Restart android system **/
+reboot my phone (or) reboot my device
+restart this phone (or) restart this device
+restart my phone (or) restart my device
+reboot this phone (or)reboot this device
+
+/** bootloader mode android system **/
+reboot this phone in bootloader mode (or) reboot this device in bootloader mode
+reboot my device in bootloader mode (or) reboot my phone in bootloader mode
 === Reni Services of windows 10 ===
 disconnect Wi-Fi
 show Wi-Fi (or) show Wi-Fi network (or) show me Wi-Fi network 
@@ -37,7 +52,7 @@ Open Z Drive
 
 ====Power controls these actions Reni can do====
 shutdown my PC
-restart my PC
+restart my PC (or) reboot my PC
 go to sleep mode (or) go to sleep
 log of this user
 

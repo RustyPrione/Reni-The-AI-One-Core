@@ -11,7 +11,7 @@ def powercontrol(text):
         engine.runAndWait()
         os.system('shutdown /p')
        
-    if(('restart my PC'==text)):
+    if(('restart my PC'==text)|('reboot my PC'==text)):
         engine.say("Okay Restarting your PC")
         engine.runAndWait()
         engine.say("I will be back in one minute buddy")
